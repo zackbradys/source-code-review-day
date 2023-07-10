@@ -25,3 +25,5 @@ A little bit Zack Brady, his history, and what he's done in the industry.
 ## Introduction
 
 WIP WIP WIP
+
+![rancher-infrastructure-diagram](images/rgs-cloud-datacenter-edge-diagram.png)
