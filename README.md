@@ -1,26 +1,32 @@
----
-title: Source Code Review Day
-author: Zack Brady - Field Engineer
-contact: zack.brady@ranchergovernment.com
----
-
 ![rancher-stack-banner](images/rgs-rancher-stack-banner.png)
 
 # Source Code Technology Review Day
 
 ### Table of Contents
-* [About Me](#about-me)
+* [Introduction](#introduction)
+* [Contact Information](#contact-information)
 * [Overview and Content](#overview-and-content)
 
+## Introduction
 
-## About Me
+Rancher is a complete open source software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters at scale, while providing DevOps teams with integrated tools for running containerized workloads.
 
-A little bit Zack Brady, his history, and what he's done in the industry.
-- DOD/IC Contractor
-- U.S. Military Veteran
-- Open-Source Contributor
-- Built and Exited a Digital Firm
-- Active Volunteer Firefighter/EMT
+Rancher Government Solutions is specifically designed to address the unique security and operational needs of the U.S. Government and military as it relates to application modernization, containers, and Kubernetes.
+
+RGS supports all Rancher products with U.S. based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
+
+## Contact Information
+
+* National Security Team Alias
+  * natsec@rancherfederal.com
+* Rob Norton, Director of Special Programs (NatSec)
+  * rob.norton@ranchergovernment.com
+* Mike Sellers, Account Executive
+  * michael.sellers@ranchergovernment.com
+* Zack Brady, Field Engineer, NatSec Team
+  * zack.brady@ranchergovernment.com
+* Andy Clemenko, Field Engineer, NatSec Team
+  * andy.clemenko@ranchergovernment.com
 
 ## Overview and Content
 
