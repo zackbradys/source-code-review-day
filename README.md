@@ -25,7 +25,7 @@ RGS supports all Rancher products with U.S. based American citizens with the hig
   * michael.sellers@ranchergovernment.com
 * Zack Brady, Field Engineer, NatSec Team
   * zack.brady@ranchergovernment.com
-* Andy Clemenko, Field Engineer, NatSec Team
+* Andy Clemenko, Senior Field Engineer/Security Lead, NatSec Team
   * andy.clemenko@ranchergovernment.com
 
 ## Overview and Content
