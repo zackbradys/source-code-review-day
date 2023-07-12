@@ -17,9 +17,9 @@ RGS supports all Rancher products with U.S. based American citizens with the hig
 
 ## Contact Information
 
-* National Security Team Alias
+* National Security Team (NatSec)
   * natsec@rancherfederal.com
-* Rob Norton, Director of Special Programs (NatSec)
+* Rob Norton, Director of Special Programs
   * rob.norton@ranchergovernment.com
 * Mike Sellers, Account Executive
   * michael.sellers@ranchergovernment.com
@@ -66,6 +66,10 @@ RGS supports all Rancher products with U.S. based American citizens with the hig
 * Rancher NeuVector (Security)
   * Site: https://ranchergovernment.com/neuvector
   * Docs: https://open-docs.neuvector.com
+* Rancher Fleet (GitOps)
+  * Docs: https://fleet.rancher.io
+* Rancher Elemental (Baremetal Provisioning)
+  * Docs: https://elemental.docs.rancher.com
 
 ### Rancher Government Carbide Features
 
